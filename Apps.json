@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": " App1",
+        "typeId": 1
+    },
+    {
+        "id": 2,
+        "name": " App2",
+        "typeId": 1
+    },
+    {
+        "id": 3,
+        "name": " App3",
+        "typeId": 2
+    },
+    {
+        "id": 4,
+        "name": " App4",
+        "typeId": 3
+    }
+]

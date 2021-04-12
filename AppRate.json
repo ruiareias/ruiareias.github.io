@@ -1,0 +1,22 @@
+[
+    {
+        "userId": 1,
+        "appId": 1,
+        "rating": 4
+    },
+    {
+        "userId": 1,
+        "appId": 2,
+        "rating": 3
+    },
+    {
+        "userId": 2,
+        "appId": 2,
+        "rating": 5
+    },
+    {
+        "userId": 2,
+        "appId": 4,
+        "rating": 1
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "userId": 1,
+        "appId": 1
+    },
+    {
+        "userId": 1,
+        "appId": 2
+    },
+    {
+        "userId": 2,
+        "appId": 2
+    },
+    {
+        "userId": 2,
+        "appId": 4
+    }
+]
